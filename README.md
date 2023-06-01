@@ -10,7 +10,6 @@ Project snaps
 
 Live demo video of project:
 
-<video src="public/assets/dashboard.mp4" controls title="Title"></video>
 
 
 ## Features
